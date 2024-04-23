@@ -3,7 +3,7 @@ import { Component } from "react";
 class Header extends Component {
   render() {
     return (
-      <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
+      <nav className="navbar navbar-expand-sm navbar-dark bg-dark px-5">
         <a className="navbar-brand" href="/#">
           Navbar
         </a>
