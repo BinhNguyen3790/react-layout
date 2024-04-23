@@ -1,11 +1,9 @@
-import Header from "./components/layouts/Header.js";
-import Products from "./components/layouts/Products.js";
+import Home from "./components/template/Home.js";
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Products />
+      <Home />
     </div>
   );
 }
